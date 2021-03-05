@@ -1,5 +1,8 @@
 # eye_see_you
 A face recognition security system
+
+Video demo
+
 [![Project: Eye See You @MLDA](http://img.youtube.com/vi/IJFRbJaW2lc/0.jpg)](http://www.youtube.com/watch?v=IJFRbJaW2lc "Video_demo")
 
 
