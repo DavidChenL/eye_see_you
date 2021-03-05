@@ -1,5 +1,7 @@
 # eye_see_you
 A face recognition security system
+[![Project: Eye See You @MLDA](http://img.youtube.com/vi/IJFRbJaW2lc/0.jpg)](http://www.youtube.com/watch?v=IJFRbJaW2lc "Video_demo")
+
 
 ## Inspiration
 Make MLDA@EEE more AI-savvy! We had dreamed of a computer vision for door access control for a long time. Now it's time to implement it!
